@@ -47,8 +47,8 @@
 
 ## Output:
 ## AUTOCAD FUSION:
-![alt text](1st.png)
-![alt text](2nd.png)
+![alt text](at.png)
+![alt text](ut.png)
 
 ### Name: BHUVANESH S
 ### Register Number: 212225040048
